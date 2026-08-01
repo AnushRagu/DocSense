@@ -32,12 +32,6 @@ The goal of the project is to make long documents easier to understand without m
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
-
 ## 📂 Project Structure
 
 ```
