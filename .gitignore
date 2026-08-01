@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# Build files
+dist/
+build/
+
+# Uploaded PDFs (optional)
+data/uploads/
+
+# ChromaDB (if you add it later)
+data/chroma_db/
